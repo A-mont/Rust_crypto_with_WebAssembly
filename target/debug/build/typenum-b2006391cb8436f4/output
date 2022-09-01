@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/debug/build/typenum-b2006391cb8436f4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/debug/build/typenum-b2006391cb8436f4/out/op.rs

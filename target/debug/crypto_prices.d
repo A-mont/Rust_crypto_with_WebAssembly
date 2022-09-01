@@ -1,0 +1,1 @@
+/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/debug/crypto_prices: /mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/src/lib.rs /mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/src/main.rs

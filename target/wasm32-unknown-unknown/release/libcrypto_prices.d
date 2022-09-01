@@ -1,0 +1,1 @@
+/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/wasm32-unknown-unknown/release/libcrypto_prices.rlib: /mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/src/lib.rs

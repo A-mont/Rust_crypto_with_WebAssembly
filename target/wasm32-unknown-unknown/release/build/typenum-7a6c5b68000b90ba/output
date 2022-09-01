@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/wasm32-unknown-unknown/release/build/typenum-7a6c5b68000b90ba/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/d/ESCRITORIO/RUST/Rust_crypto_with_WebAssembly/prueba/crypto_prices/target/wasm32-unknown-unknown/release/build/typenum-7a6c5b68000b90ba/out/op.rs
